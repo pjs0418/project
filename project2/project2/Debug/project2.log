@@ -1,0 +1,8 @@
+﻿  project2.c
+c:\users\tony1\documents\visual studio 2017\projects\project2\project2\project2.c(45): warning C4129: '*': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\tony1\documents\visual studio 2017\projects\project2\project2\project2.c(58): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(552): note: 'strlwr' 선언을 참조하십시오.
+c:\users\tony1\documents\visual studio 2017\projects\project2\project2\project2.c(83): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(552): note: 'strlwr' 선언을 참조하십시오.
+  project2.vcxproj -> C:\Users\tony1\Documents\Visual Studio 2017\Projects\project2\Debug\project2.exe
+  project2.vcxproj -> C:\Users\tony1\Documents\Visual Studio 2017\Projects\project2\Debug\project2.pdb (Partial PDB)
